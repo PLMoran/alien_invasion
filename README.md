@@ -4,24 +4,36 @@
 
 Player:
 Rocket Ship
-    Ability to shoot
-    Ability to strafe left-right
-    Number of Lives
+    Ability to shoot x
+    Ability to strafe left-right x
+    Number of Lives 3 x
 
 Enemies:
 Alien Fleet -> Aliens
-    Ability to shoot
-    Ability to strafe left to right
-    Abiltiy to move down screen
+    Ability to shoot x
+    Ability to strafe left to right x
+    Ability to move down screen x 
 
 Score:
-    increments
+    increments x
+    high score x
+    
 
-Game Start
+Game Start:
+    Click button or press p to start x
 
-Game End
-    end conditions:
-        Player Death
-        Aliens reach ground
-        Win?
-        
+Game End:
+    End condition:
+        Aliens reach ground x
+        or collides with player x
+    No win scenario. 
+        progressively more difficult until death. x
+
+To implement:
+    Enemies Fire Back
+    Shields
+    Game Pause?
+    Upgrade shots
+    Bonus alien at certain score?
+    Permanent highscore written to file
+    
